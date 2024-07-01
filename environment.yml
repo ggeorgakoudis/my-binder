@@ -1,0 +1,5 @@
+channels:
+  - ggeorgakoudis
+  - conda-forge
+depedencies:
+  - numba=0.57_pyomp
